@@ -5,6 +5,6 @@ https://hanysysdev.github.io/spellinghive-privacy/
 
 Edit `index.md` and commit; Pages republishes it within a minute or two.
 
-Before publishing, replace everything in `[BRACKETS]`. When the policy changes in substance, give it a new version (the "Version" line) and update the version the app asks parents to accept, in the main repository: `privacyPolicyVersion` in `mobile/lib/domain/models/models.dart` and `spellinghive.consent-policy-version` in `backend/src/main/resources/application.yml`.
+When the policy changes in substance, give it a new version (the "Version" line) and update the version the app asks parents to accept, in the main repository: `privacyPolicyVersion` in `mobile/lib/domain/models/models.dart` and `spellinghive.consent-policy-version` in `backend/src/main/resources/application.yml`.
 
 Pages setting: Settings → Pages → Build and deployment → Deploy from a branch → `main` / `(root)`.
