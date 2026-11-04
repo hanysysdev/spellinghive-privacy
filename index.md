@@ -4,7 +4,7 @@ title: Spelling Hive — Privacy Policy / سياسة الخصوصية
 
 # Spelling Hive — Privacy Policy / سياسة الخصوصية
 
-**Version 2026-10** (the version parents accept in the app) · Effective: `[DATE]`
+**Version 2026-10** (the version parents accept in the app) · Effective: 4 November 2026
 
 - [English](#english)
 - [العربية](#arabic)
@@ -15,7 +15,7 @@ title: Spelling Hive — Privacy Policy / سياسة الخصوصية
 
 ### Who we are
 
-Spelling Hive is a mobile app that helps children practise English spelling, with their teachers and parents. It is operated by `[OPERATOR NAME]`, `[ADDRESS]` ("we"). Contact us about privacy at `[PRIVACY EMAIL]`.
+Spelling Hive is a mobile app that helps children practise English spelling, with their teachers and parents. It is operated by hanysys dev, Riyadh, Saudi Arabia ("we"). Contact us about privacy at [hanysys.dev@gmail.com](mailto:hanysys.dev@gmail.com).
 
 ### Who uses the app
 
@@ -58,25 +58,25 @@ Spelling Hive is a mobile app that helps children practise English spelling, wit
 ### Service providers
 
 We use providers that process data for us, only to run the service:
-- Hosting of the server and database: `[HOSTING PROVIDER, COUNTRY/REGION]`.
-- Email delivery for codes and notifications: `[EMAIL PROVIDER]`.
-- Text-message delivery for codes, when enabled: `[SMS PROVIDER]`.
+- Hosting of the server and database: our own servers (on premise) in Saudi Arabia, so no hosting company has access to the data.
+- Email delivery for codes and notifications: Gmail (Google).
+- Text-message delivery for codes: not used yet. We will name the provider here before we start sending codes by text message.
 
 They may use the data only to provide their service to us. We don't share personal data with anyone else, except when the law requires it.
 
 ### Where data is stored
 
-Data is stored on servers in `[COUNTRY/REGION]` and handled in line with Saudi Arabia's Personal Data Protection Law (PDPL).
+Data is stored on servers in Saudi Arabia and handled in line with Saudi Arabia's Personal Data Protection Law (PDPL).
 
 ### How long we keep it
 
 - A child's data is kept until the parent deletes the child in the app (Child settings → Delete). This needs the parent PIN and permanently removes the child's profile, progress, answers, homework status and challenge results.
 - One-time sign-in codes expire after 5 minutes and are stored only as hashes. Sign-in sessions on a device end after 180 days without use, or when you sign out.
-- A parent or teacher account is kept until you ask us to delete it: email `[PRIVACY EMAIL]` from the address or number on the account, or use `[ACCOUNT DELETION URL]`. Deleting a parent account deletes all of that parent's children.
+- A parent or teacher account is kept until you delete it in the mobile app, or ask us to delete it by emailing [hanysys.dev@gmail.com](mailto:hanysys.dev@gmail.com) from the address or number on the account. Deleting a parent account deletes all of that parent's children.
 
 ### Your rights
 
-Parents and teachers can see and correct their details in the app (Account screen). Parents can see, change and delete their children's information, and can withdraw a teacher's access at any time by unlinking the class. To get a copy of your data, or to have it corrected or deleted, contact `[PRIVACY EMAIL]`. We reply within 30 days.
+Parents and teachers can see and correct their details in the app (Account screen). Parents can see, change and delete their children's information, and can withdraw a teacher's access at any time by unlinking the class. To get a copy of your data, or to have it corrected or deleted, contact [hanysys.dev@gmail.com](mailto:hanysys.dev@gmail.com). We reply within 30 days.
 
 ### Children's privacy
 
@@ -92,7 +92,7 @@ If we change this policy, we will publish the new version at this address with a
 
 ### Contact
 
-`[OPERATOR NAME]` · `[ADDRESS]` · `[PRIVACY EMAIL]`
+hanysys dev · Riyadh, Saudi Arabia · [hanysys.dev@gmail.com](mailto:hanysys.dev@gmail.com)
 
 ---
 
@@ -102,7 +102,7 @@ If we change this policy, we will publish the new version at this address with a
 
 ### من نحن
 
-Spelling Hive تطبيق للهواتف يساعد الأطفال على التدرّب على تهجئة الكلمات الإنجليزية مع معلّميهم وأولياء أمورهم. يشغّله `[اسم الجهة المشغّلة]`، `[العنوان]` ("نحن"). للتواصل بخصوص الخصوصية: `[البريد الإلكتروني للخصوصية]`.
+Spelling Hive تطبيق للهواتف يساعد الأطفال على التدرّب على تهجئة الكلمات الإنجليزية مع معلّميهم وأولياء أمورهم. يشغّله hanysys dev، الرياض، المملكة العربية السعودية ("نحن"). للتواصل بخصوص الخصوصية: [hanysys.dev@gmail.com](mailto:hanysys.dev@gmail.com).
 
 ### من يستخدم التطبيق
 
@@ -145,25 +145,25 @@ Spelling Hive تطبيق للهواتف يساعد الأطفال على الت�
 ### مقدّمو الخدمات
 
 نستعين بجهات تعالج البيانات لصالحنا لتشغيل الخدمة فقط:
-- استضافة الخادم وقاعدة البيانات: `[جهة الاستضافة، الدولة/المنطقة]`.
-- إرسال البريد الإلكتروني للرموز والإشعارات: `[مزوّد البريد]`.
-- إرسال الرسائل النصية للرموز عند تفعيلها: `[مزوّد الرسائل]`.
+- استضافة الخادم وقاعدة البيانات: خوادمنا الخاصة (استضافة داخلية) في المملكة العربية السعودية، فلا تصل أي شركة استضافة إلى البيانات.
+- إرسال البريد الإلكتروني للرموز والإشعارات: Gmail (Google).
+- إرسال الرسائل النصية للرموز: غير مستخدم حاليًا، وسنذكر المزوّد هنا قبل البدء بإرسال الرموز برسائل نصية.
 
 لا يحق لهذه الجهات استخدام البيانات إلا لتقديم خدمتها لنا. ولا نشارك البيانات الشخصية مع أي جهة أخرى إلا إذا ألزمنا النظام بذلك.
 
 ### أين تُحفظ البيانات
 
-تُحفظ البيانات على خوادم في `[الدولة/المنطقة]`، ونتعامل معها وفق نظام حماية البيانات الشخصية في المملكة العربية السعودية.
+تُحفظ البيانات على خوادم في المملكة العربية السعودية، ونتعامل معها وفق نظام حماية البيانات الشخصية في المملكة العربية السعودية.
 
 ### مدة الاحتفاظ
 
 - تبقى بيانات الطفل حتى يحذفه وليّ الأمر من التطبيق (إعدادات الطفل ← حذف)، ويتطلّب ذلك رمز الوالدين. ويحذف ذلك نهائيًا ملف الطفل وتقدّمه وإجاباته وحالة واجباته ونتائج تحدياته.
 - تنتهي صلاحية رموز الدخول بعد 5 دقائق وتُحفظ مشفّرة فقط. وتنتهي جلسة الدخول على الجهاز بعد 180 يومًا دون استخدام، أو عند تسجيل الخروج.
-- يبقى حساب وليّ الأمر أو المعلّم حتى تطلب حذفه: راسلنا على `[البريد الإلكتروني للخصوصية]` من البريد أو الرقم المسجّل في الحساب، أو استخدم `[رابط حذف الحساب]`. ويؤدي حذف حساب وليّ الأمر إلى حذف جميع أطفاله.
+- يبقى حساب وليّ الأمر أو المعلّم حتى تحذفه من تطبيق الجوال، أو تطلب حذفه بمراسلتنا على [hanysys.dev@gmail.com](mailto:hanysys.dev@gmail.com) من البريد أو الرقم المسجّل في الحساب. ويؤدي حذف حساب وليّ الأمر إلى حذف جميع أطفاله.
 
 ### حقوقك
 
-يستطيع وليّ الأمر والمعلّم عرض بياناتهما وتصحيحها في التطبيق (شاشة الحساب). ويستطيع وليّ الأمر عرض بيانات أطفاله وتعديلها وحذفها، وإلغاء وصول المعلّم في أي وقت بإلغاء ربط الصف. للحصول على نسخة من بياناتك أو تصحيحها أو حذفها، راسلنا على `[البريد الإلكتروني للخصوصية]`. نردّ خلال 30 يومًا.
+يستطيع وليّ الأمر والمعلّم عرض بياناتهما وتصحيحها في التطبيق (شاشة الحساب). ويستطيع وليّ الأمر عرض بيانات أطفاله وتعديلها وحذفها، وإلغاء وصول المعلّم في أي وقت بإلغاء ربط الصف. للحصول على نسخة من بياناتك أو تصحيحها أو حذفها، راسلنا على [hanysys.dev@gmail.com](mailto:hanysys.dev@gmail.com). نردّ خلال 30 يومًا.
 
 ### خصوصية الأطفال
 
@@ -179,6 +179,6 @@ Spelling Hive تطبيق للهواتف يساعد الأطفال على الت�
 
 ### التواصل
 
-`[اسم الجهة المشغّلة]` · `[العنوان]` · `[البريد الإلكتروني للخصوصية]`
+hanysys dev · الرياض، المملكة العربية السعودية · [hanysys.dev@gmail.com](mailto:hanysys.dev@gmail.com)
 
 </div>
